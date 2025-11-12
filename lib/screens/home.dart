@@ -45,7 +45,7 @@ class _HomeState extends State<Home> {
 
 
   Future<void> fetchRecipes() async {
-    final response = await http.get(Uri.parse("https://dummyjson.com/recipes"));
+    final response = await http.get(Uri.parse("please enter your api URL"));
 
     if (response.statusCode == 200) {
       var data = Datmodels.fromJson(jsonDecode(response.body));
