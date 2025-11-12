@@ -1,16 +1,27 @@
-# recipe
+<h1 align="center">Recipe App</h1>
 
-A new Flutter project.
+<p align="center">
+  <em>Built with the tools and technologies:</em>
+</p>
 
-## Getting Started
+<p align="center">
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+ <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+ <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+ <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+ <img src="https://img.shields.io/badge/HTTP%20Package-005C84?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-This project is a starting point for a Flutter application.
+ ## About the Project
+ 
+A beautifully designed **Recipe App** built with **Flutter** that allows users to explore, search, and save their favorite recipes.  
+This project integrates **Firebase Authentication** and a public **Recipe API** to provide a seamless user experience.
 
-A few resources to get you started if this is your first Flutter project:
+---
+## 🖼 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/misba-coder/Recepe-App/blob/main/assets/pic1.jpg" alt ="Mobile Screenshot" width="350"/>
+    <img src="https://github.com/misba-coder/Recepe-App/blob/main/assets/pic2.jpg" alt ="Mobile Screenshot" width="350"/>
+</p>
