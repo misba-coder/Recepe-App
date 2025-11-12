@@ -27,3 +27,51 @@ This project integrates **Firebase Authentication** and a public **Recipe API** 
 <p align="center">
   <img src="https://github.com/misba-coder/Recepe-App/blob/main/assets/pic2.jpg" alt ="Mobile Screenshot" width="350"/>
 </p>
+---
+
+## Features
+
+✅ **User Authentication** — Sign up and login using Firebase Authentication.  
+✅ **Fetch Recipes** — Recipes are fetched dynamically from the [DummyJSON Recipe API](https://dummyjson.com/recipes).  
+✅ **Search Functionality** — Search for your favorite meal instantly.  
+✅ **Favorites System** — Mark/unmark recipes as your favorites.  
+✅ **Profile Page** — Displays your username and a unique DiceBear avatar.  
+✅ **Beautiful UI** — Clean and responsive layout built with Flutter widgets.
+
+---
+## Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| **Flutter** | Frontend framework |
+| **Dart** | Programming language |
+| **Firebase Authentication** | User login & registration |
+| **HTTP Package** | API calls |
+| **DiceBear Avatars API** | Generate user avatars |
+| **Firebase Core** | Firebase project connection |
+
+---
+## Screens (Main Pages)
+
+- **Splash Screen**
+- **Sign Up & Login Pages**
+- **Home Page** (List of recipes, search bar)
+- **Favorites Page**
+- **Profile Page**
+- **Recipe Details Page**
+
+---
+
+## Acknowledgements
+
+- **DummyJSON API**
+- **DiceBear Avatars**
+- **Firebase for Flutter**
+- **Flutter & Dart Teams**
+
+---
+## Developer
+**Misba Khatoon**
+*[Android Developer]* | MCA Graduate
+
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/misba-khatoon-5067a3302) 
