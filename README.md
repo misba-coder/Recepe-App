@@ -19,9 +19,11 @@ A beautifully designed **Recipe App** built with **Flutter** that allows users t
 This project integrates **Firebase Authentication** and a public **Recipe API** to provide a seamless user experience.
 
 ---
-## 🖼 Screenshots
+##  Screenshots
 
 <p align="center">
   <img src="https://github.com/misba-coder/Recepe-App/blob/main/assets/pic1.jpg" alt ="Mobile Screenshot" width="350"/>
-    <img src="https://github.com/misba-coder/Recepe-App/blob/main/assets/pic2.jpg" alt ="Mobile Screenshot" width="350"/>
+</p>
+<p align="center">
+  <img src="https://github.com/misba-coder/Recepe-App/blob/main/assets/pic2.jpg" alt ="Mobile Screenshot" width="350"/>
 </p>
