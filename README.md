@@ -27,7 +27,7 @@ This project integrates **Firebase Authentication** and a public **Recipe API** 
 <p align="center">
   <img src="https://github.com/misba-coder/Recepe-App/blob/main/assets/pic2.jpg" alt ="Mobile Screenshot" width="350"/>
 </p>
----
+
 
 ## Features
 
